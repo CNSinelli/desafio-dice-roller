@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">butao</string>
+    <string name="roll">Roll</string>
+    <string name="aposta">Aposta</string>
+    <string name="ganhou">Parabéns! Você acertou!</string>
+    <string name="perdeu">INCORRETO, O número correto era %1$s. Tente novamente</string>
+</resources>
